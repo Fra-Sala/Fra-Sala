@@ -5,10 +5,10 @@ I'm fascinated by  anything that lies at the intersection of science, mathematic
 
 🚀 **About Me:**
 - 🎓 Master's student in Computational Science and Engineering at EPFL
-- 📚 Bachelor's in Aerospace Engineering from Polimi
+- 📚 Bachelor's in Aerospace Engineering from Politecnico di Milano
 
 🌱 **Learning:**
-- Always eager to delve into new concepts and technologies, currently diving deeper into aeroelastic behaviour of aircraft at ONERA.
+- Always eager to delve into new concepts and technologies, currently diving deeper into the aeroelastic behavior of aircraft at ONERA.
 
 📫 **How to reach me:**
 - Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/francesco-sala-907631283/).
